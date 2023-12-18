@@ -55,7 +55,7 @@ Create prediction of 2 students, whose the one that get higher GPA :
 - Budi, who got 1700 on SAT and did not attend >75% of lecturers
 - Ani, who got 1670 on SAT and attended >75% of lecturers
 
-<img src="./image/data_Scatter.jpg" alt="" width = "300"/>
+<img src="./image/data_scatter.jpg" alt="" width = "300"/>
 
 - The predicted GPA at graduation for Budi is 3.02
 - The predicted GPA at graduation for Ani is 3.20
